@@ -1,0 +1,4 @@
+See file:///home/btorres/gradle/prototype/lib.src/MyLib/build/tmp/linkDebugShared/output.txt for all output for linkDebugShared.
+linking libMyLib.so successful.
+
+Finished linkDebugShared, see full log file:///home/btorres/gradle/prototype/lib.src/MyLib/build/tmp/linkDebugShared/output.txt.

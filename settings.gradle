@@ -1,0 +1,5 @@
+rootProject.name = "MyStuff"
+
+//include("lib.src:MyLib")
+//include("prog.src:MyProg")
+include("idl.src:coampa")

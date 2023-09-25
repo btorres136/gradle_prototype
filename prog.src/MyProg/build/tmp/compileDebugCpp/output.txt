@@ -1,0 +1,6 @@
+See file:///home/btorres/gradle/prototype/prog.src/MyProg/build/tmp/compileDebugCpp/output.txt for all output for compileDebugCpp.
+compiling test.cpp successful.
+
+compiling main.cpp successful.
+
+Finished compileDebugCpp, see full log file:///home/btorres/gradle/prototype/prog.src/MyProg/build/tmp/compileDebugCpp/output.txt.

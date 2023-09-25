@@ -1,0 +1,10 @@
+plugins {
+    id "Idl"
+}
+
+generateIdl {
+    source.from file(".")
+}
+
+
+//omniidl -bcxx test.idl

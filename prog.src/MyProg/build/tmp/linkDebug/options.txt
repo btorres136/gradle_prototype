@@ -1,0 +1,6 @@
+-o
+/home/btorres/gradle/prototype/prog.src/MyProg/build/exe/main/debug/MyProg
+/home/btorres/gradle/prototype/prog.src/MyProg/build/obj/main/debug/11fg0qqv4fyt4u0azy9w97xoa/main.o
+/home/btorres/gradle/prototype/prog.src/MyProg/build/obj/main/debug/d96u7v88pnyiy9k0aepxais8k/test.o
+/home/btorres/.gradle/caches/modules-2/files-2.1/org.btorres/MyLib_debug_static/1.0.0/9348daf12567c84f1a4e8e67210d5e8a8aed21ab/libMyLib.a
+-m64

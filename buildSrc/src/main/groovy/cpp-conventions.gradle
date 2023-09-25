@@ -1,0 +1,14 @@
+plugins {
+    id("cpp-application")
+}
+
+application {
+    source.from file(".")
+    targetMachines.add(machines.linux.x86_64)
+}
+
+repositories {
+    maven {
+        url "/tmp/repo"
+    }
+}

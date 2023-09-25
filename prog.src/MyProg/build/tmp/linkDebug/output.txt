@@ -1,0 +1,4 @@
+See file:///home/btorres/gradle/prototype/prog.src/MyProg/build/tmp/linkDebug/output.txt for all output for linkDebug.
+linking MyProg successful.
+
+Finished linkDebug, see full log file:///home/btorres/gradle/prototype/prog.src/MyProg/build/tmp/linkDebug/output.txt.

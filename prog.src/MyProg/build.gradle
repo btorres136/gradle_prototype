@@ -1,0 +1,13 @@
+plugins{
+    id("cpp-conventions")
+    id("publishing-conventions")
+}
+
+dependencies {
+    implementation("org.btorres:MyLib:1.0.0") {
+        attributes { attribute (Attribute.of("org.gradle.native.linkage", Linkage), Linkage.STATIC) }
+    }
+}
+
+version = '1.0.0'
+group = "org.btorres"

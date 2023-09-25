@@ -1,0 +1,6 @@
+-shared
+-Wl,-soname,libMyLib.so
+-o
+/home/btorres/gradle/prototype/lib.src/MyLib/build/lib/main/debug/shared/libMyLib.so
+/home/btorres/gradle/prototype/lib.src/MyLib/build/obj/main/debug/shared/76xisriveoz9fro3ybupriirt/hello.o
+-m64

@@ -1,0 +1,11 @@
+plugins{
+    id("maven-publish")
+}
+
+publishing {
+    repositories {
+        maven {
+            url "/tmp/repo"
+        }
+    }
+}

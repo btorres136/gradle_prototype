@@ -1,0 +1,17 @@
+plugins{
+    id("cpp-library")
+}
+
+library {
+    source.from file(".")
+    privateHeaders.from file(".")
+    publicHeaders.from file(".")
+    targetMachines.add(machines.linux.x86_64)
+    linkage = [Linkage.STATIC, Linkage.SHARED]
+}
+
+repositories {
+    maven {
+        url "/tmp/repo"
+    }
+}

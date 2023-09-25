@@ -1,0 +1,4 @@
+See file:///home/btorres/gradle/prototype/lib.src/MyLib/build/tmp/compileDebugSharedCpp/output.txt for all output for compileDebugSharedCpp.
+compiling hello.cpp successful.
+
+Finished compileDebugSharedCpp, see full log file:///home/btorres/gradle/prototype/lib.src/MyLib/build/tmp/compileDebugSharedCpp/output.txt.
